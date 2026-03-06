@@ -1,10 +1,3 @@
----
-marp: true
-theme: gaia
-paginate: true
-mermaid: true
----
-
 # AI Master Flow
 
 ## Understanding AI -> Automation -> Machine Learning -> Generative AI -> AI Agents -> Agentic AI

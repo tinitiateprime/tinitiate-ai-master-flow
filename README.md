@@ -4,7 +4,6 @@ AI → Automation → Machine Learning → Generative AI → AI Agents → Agent
 
 ## Full file + PPT
 - [Master markdown](master/ai-master-flow-detailed.md)
-- [PPTX](master/why-ai-matters.pptx)
 
 ## Topics
 1. [Understanding AI](topics/01-understanding-ai.md)
