@@ -32,6 +32,33 @@ It is designed to help the audience understand:
 8. Enterprise architecture and use cases
 9. Governance, risk, and key takeaways
 
+# Master Comparison and Evolution Flow
+
+```mermaid
+mindmap
+  root((AI Evolution))
+    Automation
+      Rule-based Systems
+      RPA (Robotic Process Automation)
+      Static Workflows
+    Machine Learning
+      Pattern Recognition
+      Predictive Analytics
+      Statistical Models
+    Generative AI
+      Large Language Models
+      Content Creation
+      Unstructured Data Handling
+    AI Agents
+      Tool Integration
+      Reasoning Loops
+      Goal-Oriented Tasks
+    Agentic AI
+      Self-Correction
+      Autonomous Decision Making
+      Multi-Agent Collaboration
+```
+
 ---
 
 # Understanding Artificial Intelligence
